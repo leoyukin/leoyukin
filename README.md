@@ -2,38 +2,36 @@
   <h1>Hello there, I'm Leoyu 👋</h1>
   <p><strong>Junior Full-Stack Developer · Learning To Challenge Myself</strong></p>
   <p>Crafting interactive frontends with React & JavaScript and wiring them up to Node.js, Express, and SQLite backends.</p>
-
-
-### 💭 About Me
-
-- 🌱 **Where I'm at:** `I'm a junior developer that initially got inspired by someone who is extremely good in this field, had creative ideas but didn't have the right tools to pursue them, got lost at first but found my way back through that initial inspiration and knew this was more than a hobby i wanted to take pride in, so I taught myself from the beginning of this year through free and paid resources to making those things come to life.`
-  
-- 🔨 **Currently working on:** Designing and building **two flagship full-stack projects** using React, Node.js, Express, and SQLite that I can take pride in.
-  
-- 🗺️ **Learning Roadmap:** Expanding my database skills into **PostgreSQL**, adding static types with **TypeScript**, and eventually exploring **Python** and **Rust**.
-  
-- 🎧 **Hobbies:** Most likely listening to music or occupied reading.
+</div>
 
 ---
 
-###  🧠 Tech Stack
+### 💭 About Me
+
+- 🌱 **Where I'm at:** I initially got inspired by someone incredible in this field—I had plenty of creative ideas, just not the right tools to build them yet. Even though I got lost at first, finding my way back made me realize this was more than a hobby; it was a craft I wanted to take real pride in. Since the start of this year, I've been teaching myself full-stack development to bring those ideas to life.
+- 🔨 **Currently working on:** Designing and building **two flagship full-stack projects** using React, Node.js, Express, and SQLite that I can truly take pride in.
+- 🗺️ **Learning Roadmap:** Expanding my database skills into **PostgreSQL**, adding static types with **TypeScript**, and eventually exploring **Python** and **Rust**.
+- 🎧 **Hobbies:** Most likely listening to music, tinkering with PC hardware, or occupied reading.
+
+---
+
+### 🧠 Tech Stack
 
 **My Core Stack**
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,sqlite,git,github,vscode" alt="Current Tech Stack" />
 </p>
 
-**Next on my Radar**
-
+**Next on My Radar**
 <p>
   <img src="https://skillicons.dev/icons?i=postgres,ts,python,rust" alt="Learning Roadmap" />
 </p>
 
 ---
 
-###  🔨 Current Workbench
+### 🔨 Current Workbench
 
-I'm currently taking the backend and frontend fundamentals from my smaller builds and combining them into two main full-stack showcase projects:
+Trying to improve my frontend and backend fundamentals from my smaller builds, but there's always something new I learn that makes me reflect on them and my journey-
 
 | Project | Focus | Tech Stack | Links |
 | :--- | :--- | :--- | :--- |
@@ -44,10 +42,3 @@ I'm currently taking the backend and frontend fundamentals from my smaller build
 | **[Weather-App](https://github.com/leoyukin/Weather-App)** | Async API & Frontend UI | `JavaScript` `HTML` `CSS` | [View Repo](https://github.com/leoyukin/Weather-App) |
 
 ---
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=leoyukin&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Leoyu's GitHub Stats" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leoyukin&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Leoyu's Top Languages" />
-</div>
